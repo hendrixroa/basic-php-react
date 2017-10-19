@@ -1,0 +1,15 @@
+{
+    "name": "basic-php-react",
+    "description": "App example for react and php server",
+    "type": "project",
+    "require": {
+        "php": ">=7.0.0",
+        "phpmailer/phpmailer": "^6.0"
+    },
+    "authors": [
+        {
+            "name": "Hendrix Roa",
+            "email": "hendrix.alex87@gmail.com"
+        }
+    ]
+}
